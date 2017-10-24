@@ -1,7 +1,11 @@
 # GANnetwork-in-pictures
-##This is the GANnetwork with improved with WGAN structure.
+## This is the GANnetwork with improved with WGAN structure.
 
 I write the GAN both by fully connected network and convolution network.
+
+Here is the hyperparameter:
+
+ ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/191.jpg?raw=true )
 
 In `` GAN_fc.py `` it's the fully connected network, which shows the end like this (I use the coins' pictures and the animation figure as trainning dataset):
 
