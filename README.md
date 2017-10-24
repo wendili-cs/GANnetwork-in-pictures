@@ -19,7 +19,7 @@ In `` GAN_fc.py `` it's the fully connected network, which shows the end like th
  
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/208.png?raw=true )
  
- But in convolution network GAN, I think I haven't make it for now (2017.10.10), for the generate picture is very ... convolution.
+ But in convolution network GAN `` GAN_cnn.py ``, I think I haven't make it for now (2017.10.10), for the generate picture is very ... convolution.
  
  ![pic](https://github.com/AdamAlive/MarkdownRef/blob/master/209.png?raw=true )
  
